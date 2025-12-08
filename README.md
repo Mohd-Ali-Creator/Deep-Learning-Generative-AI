@@ -1,3 +1,2 @@
 # dsa-
-practise ques on leetcode
-java practise
+practise ques on leetcode just to make consistency
